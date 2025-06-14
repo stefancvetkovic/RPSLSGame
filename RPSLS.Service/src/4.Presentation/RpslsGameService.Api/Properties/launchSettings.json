@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "RpslsGameService.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:56167;http://localhost:56168"
+    }
+  }
+}
